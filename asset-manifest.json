@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Ga-AV/Ga-AV.github.io/tree/main/static/css/main.965c62e1.css",
-    "main.js": "/Ga-AV/Ga-AV.github.io/tree/main/static/js/main.a93beaf5.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Ga-AV/Ga-AV.github.io/tree/main/static/js/787.1ed0c42c.chunk.js",
-    "static/media/my-avatar.jpg": "/Ga-AV/Ga-AV.github.io/tree/main/static/media/my-avatar.c9aeb1c97fc04739271c.jpg",
-    "static/media/John-Cv.pdf": "/Ga-AV/Ga-AV.github.io/tree/main/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
-    "index.html": "/Ga-AV/Ga-AV.github.io/tree/main/index.html",
-    "main.965c62e1.css.map": "/Ga-AV/Ga-AV.github.io/tree/main/static/css/main.965c62e1.css.map",
-    "main.a93beaf5.js.map": "/Ga-AV/Ga-AV.github.io/tree/main/static/js/main.a93beaf5.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Ga-AV/Ga-AV.github.io/tree/main/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Ga-AV/Ga-AV.github.io/static/css/main.75e03e70.css",
+    "main.js": "/Ga-AV/Ga-AV.github.io/static/js/main.4a75dd41.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Ga-AV/Ga-AV.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my-avatar.jpg": "/Ga-AV/Ga-AV.github.io/static/media/my-avatar.c9aeb1c97fc04739271c.jpg",
+    "static/media/John-Cv.pdf": "/Ga-AV/Ga-AV.github.io/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/Ga-AV/Ga-AV.github.io/index.html",
+    "main.75e03e70.css.map": "/Ga-AV/Ga-AV.github.io/static/css/main.75e03e70.css.map",
+    "main.4a75dd41.js.map": "/Ga-AV/Ga-AV.github.io/static/js/main.4a75dd41.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Ga-AV/Ga-AV.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.965c62e1.css",
-    "static/js/main.a93beaf5.js"
+    "static/css/main.75e03e70.css",
+    "static/js/main.4a75dd41.js"
   ]
 }
