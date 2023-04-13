@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ga-av.github.io/static/css/main.4d399224.css",
+    "main.js": "/ga-av.github.io/static/js/main.c1f48770.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ga-av.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my-avatar.jpg": "/ga-av.github.io/static/media/my-avatar.c9aeb1c97fc04739271c.jpg",
+    "static/media/John-Cv.pdf": "/ga-av.github.io/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/ga-av.github.io/index.html",
+    "main.4d399224.css.map": "/ga-av.github.io/static/css/main.4d399224.css.map",
+    "main.c1f48770.js.map": "/ga-av.github.io/static/js/main.c1f48770.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ga-av.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d399224.css",
+    "static/js/main.c1f48770.js"
+  ]
+}
