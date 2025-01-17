@@ -43,10 +43,10 @@ const Qualification = () => {
                     : "qualification__content"}>
                        <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Cybersecurity Master's</h3>
+                                <h3 className="qualification__title">Master's degree in engineering composed of two postgraduate degrees in: Project Management and Information Assurance Management.</h3>
                                 <span className="qualification__subtitle">Galileo University</span>
                                     <div className="qualification__calendar">
-                                        <i className="uil uil-calendar-alt"></i> Present
+                                        <i className="uil uil-calendar-alt"></i> 2023 - 2024
                                     </div>
                             </div>
                             <div>
@@ -80,15 +80,30 @@ const Qualification = () => {
 
                        <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Developer</h3>
-                                <span className="qualification__subtitle">Widook</span>
+                                <h3 className="qualification__title">Programmer Analyst II</h3>
+                                <span className="qualification__subtitle">Bam</span>
                                     <div className="qualification__calendar">
-                                        <i className="uil uil-calendar-alt"></i> 2022
+                                        <i className="uil uil-calendar-alt"></i> 2023 - Present
                                     </div>
                             </div>
                             <div>
                                 <span className="qualification__rounder"></span>
                                 <span className="qualification__line"></span>
+                            </div>
+                        </div> 
+
+                        <div className="qualification__data">
+                            <div></div>
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+                            <div>
+                                <h3 className="qualification__title">Full Stack Developer</h3>
+                                <span className="qualification__subtitle">Widook</span>
+                                    <div className="qualification__calendar">
+                                        <i className="uil uil-calendar-alt"></i> 2022
+                                    </div>
                             </div>
                         </div> 
 
