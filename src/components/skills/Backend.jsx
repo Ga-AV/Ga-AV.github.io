@@ -11,7 +11,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">Python - Django</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
@@ -19,7 +19,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">PHP - Laravel</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
@@ -27,7 +27,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">ASP.NET</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
@@ -39,7 +39,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">Java, C#</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
@@ -47,7 +47,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">Node Js</h3>
-                        <span className="skills__level">Basic</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
                     <div>
                         <h3 className="skills__name">SQL, MySQL and PostgreSQL</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level"></span>
                     </div>
                 </div>
 
